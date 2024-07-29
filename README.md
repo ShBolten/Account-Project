@@ -1,2 +1,2 @@
 # AccountProject
-College Project
+Account Project - C++
